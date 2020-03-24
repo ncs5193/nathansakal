@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\assets",
+    "\\src\\assets\\css",
+    "\\src\\assets\\fonts",
+    "\\src\\assets\\scss",
+    "\\src\\assets\\scss\\base",
+    "\\src\\assets\\scss\\components",
+    "\\src\\assets\\scss\\layout",
+    "\\src\\components",
+    "\\src\\images",
+    "\\src\\pages"
+  ],
+  "SelectedNode": "\\src\\assets\\scss\\layout\\_wrapper.scss",
+  "PreviewInSolutionExplorer": false
+}
