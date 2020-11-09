@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Starter - Dimension V2',
-    author: 'Hunter Chang',
-    description: 'A Gatsby.js V2 Starter based on Dimension by HTML5 UP',
+    title: 'Nathan Sakal',
+    author: 'Nathan Sakal',
+    description: 'A portfolio website to display some of Nathan Sakal\'s work and accomplishments',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -15,7 +15,7 @@ module.exports = {
         background_color: '#663399',
         theme_color: '#663399',
         display: 'minimal-ui',
-        icon: 'src/images/gatsby-icon.png', // This path is relative to the root of the site.
+        icon: 'src/images/NS-icon.png', // This path is relative to the root of the site.
       },
     },
     'gatsby-plugin-sass',
